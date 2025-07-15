@@ -1,6 +1,6 @@
 
 # 🏠 House Price Prediction App
-![screenshot](gitimg.png)
+![screenshot](gitimg.jpg)
 
 This is a user-friendly web application that predicts property prices based on user input using a Machine Learning model. It leverages an XGBoost regression model to provide accurate real-time predictions based on features like property type, city, location, number of bedrooms and baths, total area, and more.
 
