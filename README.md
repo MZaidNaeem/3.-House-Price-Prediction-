@@ -1,5 +1,9 @@
 
 # 🏠 House Price Prediction App
+
+🔗 🚀 Live Demo 
+[🔗 Click Here to Try the Live Demo](https://housepricepredictionbyzaidnaeem.streamlit.app/)
+
 ![screenshot](gitimg.jpg)
 
  Project 3 of my 25 Premium AI Projects Challenge
